@@ -1,7 +1,7 @@
 # How to Install
 - Clone this repo
 - Go to the Geode-Beta directory
-- Give exexution perms to geode-nightly-installer.sh via GUI or using " chmod +x 'file' "
+- Give execution perms to geode-nightly-installer.sh via GUI or using " chmod +x 'file' "
 - Run it via GUI or using ./geode-nightly-installer.sh
 
 # Images
